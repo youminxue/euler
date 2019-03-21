@@ -3,10 +3,10 @@ package grpc
 import (
 	"errors"
 
-	"github.com/Terry-Mao/goim/pkg/bufio"
-	"github.com/Terry-Mao/goim/pkg/bytes"
-	"github.com/Terry-Mao/goim/pkg/encoding/binary"
-	"github.com/Terry-Mao/goim/pkg/websocket"
+	"github.com/youminxue/euler/pkg/bufio"
+	"github.com/youminxue/euler/pkg/bytes"
+	"github.com/youminxue/euler/pkg/encoding/binary"
+	"github.com/youminxue/euler/pkg/websocket"
 )
 
 const (

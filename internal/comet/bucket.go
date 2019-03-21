@@ -4,8 +4,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Terry-Mao/goim/api/comet/grpc"
-	"github.com/Terry-Mao/goim/internal/comet/conf"
+	"github.com/youminxue/euler/api/comet/grpc"
+	"github.com/youminxue/euler/internal/comet/conf"
 )
 
 // Bucket is a channel holder.

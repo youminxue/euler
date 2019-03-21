@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/Bilibili/discovery/naming"
-	pb "github.com/Terry-Mao/goim/api/logic/grpc"
-	"github.com/Terry-Mao/goim/internal/job/conf"
+	pb "github.com/youminxue/euler/api/logic/grpc"
+	"github.com/youminxue/euler/internal/job/conf"
 	"github.com/gogo/protobuf/proto"
 
 	cluster "github.com/bsm/sarama-cluster"

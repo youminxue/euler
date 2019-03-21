@@ -16,11 +16,11 @@ import (
 
 	"github.com/Bilibili/discovery/naming"
 	resolver "github.com/Bilibili/discovery/naming/grpc"
-	"github.com/Terry-Mao/goim/internal/comet"
-	"github.com/Terry-Mao/goim/internal/comet/conf"
-	"github.com/Terry-Mao/goim/internal/comet/grpc"
-	md "github.com/Terry-Mao/goim/internal/logic/model"
-	"github.com/Terry-Mao/goim/pkg/ip"
+	"github.com/youminxue/euler/internal/comet"
+	"github.com/youminxue/euler/internal/comet/conf"
+	"github.com/youminxue/euler/internal/comet/grpc"
+	md "github.com/youminxue/euler/internal/logic/model"
+	"github.com/youminxue/euler/pkg/ip"
 	log "github.com/golang/glog"
 )
 

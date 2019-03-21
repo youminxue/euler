@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/Bilibili/discovery/naming"
-	"github.com/Terry-Mao/goim/internal/logic/conf"
-	"github.com/Terry-Mao/goim/internal/logic/dao"
-	"github.com/Terry-Mao/goim/internal/logic/model"
+	"github.com/youminxue/euler/internal/logic/conf"
+	"github.com/youminxue/euler/internal/logic/dao"
+	"github.com/youminxue/euler/internal/logic/model"
 	log "github.com/golang/glog"
 )
 

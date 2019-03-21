@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/Bilibili/discovery/naming"
-	"github.com/Terry-Mao/goim/internal/logic/model"
+	"github.com/youminxue/euler/internal/logic/model"
 
 	"github.com/stretchr/testify/assert"
 )

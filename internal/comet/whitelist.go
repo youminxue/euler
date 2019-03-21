@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Terry-Mao/goim/internal/comet/conf"
+	"github.com/youminxue/euler/internal/comet/conf"
 )
 
 var whitelist *Whitelist
